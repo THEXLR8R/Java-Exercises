@@ -2,7 +2,7 @@ package exercises02;
 
 import java.util.Scanner;
 
-public class TwoNumbers {
+public class CalculatorWithSwitch {
 
     public static void main(String[] args) {
 
