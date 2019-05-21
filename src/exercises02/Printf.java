@@ -43,7 +43,7 @@ public class Printf {
 
         System.out.printf("%tD%n",calendar);
 
-        System.out.printf("%.10s\n", "Tihomir Petrov Bogdanov");
+        System.out.printf("%.16s\n", "Tihomir Petrov Bogdanov");
 
 
 
