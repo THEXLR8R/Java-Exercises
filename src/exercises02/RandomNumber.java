@@ -22,6 +22,7 @@ public class RandomNumber {
             userInput = 0;
             guessTracker = 0;
 
+            System.out.println("Let play a Game. If you win you live if you lose you die ... ");
             System.out.println("Please guess the number between 1 and 10: ");
 
             while (correctNumber != userInput && guessTracker < guessLimit) {

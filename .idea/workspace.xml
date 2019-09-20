@@ -1,44 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8714a8a-2ca4-4327-bf13-a6b235e79200" name="Default Changelist" comment="some changes">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e8714a8a-2ca4-4327-bf13-a6b235e79200" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Loops/BreakAndContinue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Loops/BreakAndContinue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Loops/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Loops/DoWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Loops/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Loops/ForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Loops/SquareCube.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Loops/SquareCube.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Loops/While.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Loops/While.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Rectangle/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Rectangle/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Recurtion/Recurtion1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Recurtion/Recurtion1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Strings/ReverseIntoBytes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Strings/ReverseIntoBytes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Strings/ReverseStringWithRecution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Strings/ReverseStringWithRecution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/Strings/ReverseUsingBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/Strings/ReverseUsingBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/animal/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises01/task01/Items$Wardrobe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises01/task01/Items$Wardrobe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises01/task01/Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises01/task01/Items.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/BodyMassIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/BodyMassIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/CalculatorWithIfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/CalculatorWithIfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/CalculatorWithSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/CalculatorWithSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Card.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Conversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Conversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/DayOfWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/DayOfWeek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/DividedBy3Or5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/DividedBy3Or5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/DividerBy3Or5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/DividerBy3Or5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/OddOrEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/OddOrEven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Operators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Poker$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Poker$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Poker$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Poker$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Poker$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Poker$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Poker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Poker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Printf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Printf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/RandomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/RandomNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/ReverseNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/SumOfThreeDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/SumOfThreeDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises03/lec02/task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises03/lec02/task01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/exercises02/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises02/RandomNumber.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -222,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568030798275</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="some changes">
+      <created>1568971079245</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568971079245</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
