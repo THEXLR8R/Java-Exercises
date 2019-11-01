@@ -11,7 +11,7 @@ public class CalculatorWithSwitch {
         int number1 = scanner.nextInt();
         System.out.println("Enter second number : ");
         int number2 = scanner.nextInt();
-        System.out.println("Enter operator (+ , - , * , / %) : ");
+        System.out.println("Enter operator (+ , - , * , / or %) : ");
         String operator = scanner.next();
 
         String result = "";
