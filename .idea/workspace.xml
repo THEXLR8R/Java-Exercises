@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8714a8a-2ca4-4327-bf13-a6b235e79200" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercises02/calculator/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/masterclass/Hris.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/masterclass/NoobToSemiNoob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/masterclass/NoobToSeminoob2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/masterclass/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/masterclass/TicTacToe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/CalculatorWithSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/CalculatorWithSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/RandomNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Exercises/exercises02/RandomNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercises02/CalculatorWithSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises02/CalculatorWithSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/masterclass/NoobToSemiNoobPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/masterclass/NoobToSemiNoobPatterns.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,35 +47,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NoobToSeminoob2">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="masterclass.HelloWorld" />
-      <module name="Java Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="masterclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="masterclass.Hris" />
-      <module name="Java Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="masterclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="NoobToSemiNoob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="masterclass.NoobToSemiNoob" />
+      <module name="Java Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="masterclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoobToSemiNoobPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masterclass.NoobToSemiNoobPatterns" />
       <module name="Java Exercises" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercises02.RandomNumber" />
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masterclass.Patterns" />
       <module name="Java Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercises02.*" />
+          <option name="PATTERN" value="masterclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masterclass.TicTacToe" />
+      <module name="Java Exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="masterclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +114,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.RandomNumber" />
-      <item itemvalue="Application.Hris" />
       <item itemvalue="Application.NoobToSemiNoob" />
       <item itemvalue="Application.NoobToSeminoob2" />
+      <item itemvalue="Application.NoobToSemiNoobPatterns" />
+      <item itemvalue="Application.Patterns" />
+      <item itemvalue="Application.TicTacToe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.Patterns" />
+        <item itemvalue="Application.NoobToSemiNoobPatterns" />
         <item itemvalue="Application.NoobToSeminoob2" />
         <item itemvalue="Application.NoobToSemiNoob" />
-        <item itemvalue="Application.Hris" />
-        <item itemvalue="Application.RandomNumber" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568975294712</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new classes to masterclass">
+      <created>1572607130190</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572607130190</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +238,8 @@
     <MESSAGE value="first try to create poker game" />
     <MESSAGE value="new code" />
     <MESSAGE value="some changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="some changes" />
+    <MESSAGE value="new classes to masterclass" />
+    <option name="LAST_COMMIT_MESSAGE" value="new classes to masterclass" />
   </component>
   <component name="masterDetails">
     <states>
