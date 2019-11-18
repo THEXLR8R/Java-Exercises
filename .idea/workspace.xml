@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8714a8a-2ca4-4327-bf13-a6b235e79200" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/masterclass/Patterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/masterclass/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/masterclass/HrisAnotherStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/masterclass/HrisCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/masterclass/HrisStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoeProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoeProject/TicTacToeGUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/masterclass/NoobToSemiNoobPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/masterclass/NoobToSemiNoobPatterns.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +49,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="NoobToSemiNoob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="masterclass.NoobToSemiNoob" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HrisCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masterclass.HrisCalculator" />
       <module name="Java Exercises" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoobToSemiNoobPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="masterclass.NoobToSemiNoobPatterns" />
+    <configuration name="HrisStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="masterclass.HrisStrings" />
       <module name="Java Exercises" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoobToSeminoob2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="masterclass.NoobToSeminoob2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictactoeProject.Main" />
       <module name="Java Exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="masterclass.*" />
+          <option name="PATTERN" value="tictactoeProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,19 +116,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NoobToSemiNoob" />
-      <item itemvalue="Application.NoobToSeminoob2" />
-      <item itemvalue="Application.NoobToSemiNoobPatterns" />
       <item itemvalue="Application.Patterns" />
       <item itemvalue="Application.TicTacToe" />
+      <item itemvalue="Application.HrisCalculator" />
+      <item itemvalue="Application.HrisStrings" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HrisStrings" />
+        <item itemvalue="Application.HrisCalculator" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Patterns" />
-        <item itemvalue="Application.NoobToSemiNoobPatterns" />
-        <item itemvalue="Application.NoobToSeminoob2" />
-        <item itemvalue="Application.NoobToSemiNoob" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572607130190</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="TicTacToe game">
+      <created>1572715306999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1572715306999</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +248,8 @@
     <MESSAGE value="new code" />
     <MESSAGE value="some changes" />
     <MESSAGE value="new classes to masterclass" />
-    <option name="LAST_COMMIT_MESSAGE" value="new classes to masterclass" />
+    <MESSAGE value="TicTacToe game" />
+    <option name="LAST_COMMIT_MESSAGE" value="TicTacToe game" />
   </component>
   <component name="masterDetails">
     <states>
